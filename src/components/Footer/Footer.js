@@ -1,12 +1,22 @@
 import './Footer.css'
 
+function GetYear() {
+  const date = new Date();
+  const year = date.getFullYear();
+  return (
+      <>
+          {year}
+      </>
+)
+}
+
 const Footer = () => (
   <footer className='footer'>
     <a
-      href='https://github.com/rjshkhr/cleanfolio'
+      href='https://github.com/HaiderBhattiJKD'
       className='link footer__link'
     >
-      Created By Raj Shekhar
+      © [Haider Ali Bhatti] | Crafting immersive experiences with Unity & C# | {GetYear()}
     </a>
   </footer>
 )
