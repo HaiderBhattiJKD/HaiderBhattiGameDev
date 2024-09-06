@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/HaiderBhattiGameDev/static/css/main.7fdc4bab.css",
+    "main.css": "/HaiderBhattiGameDev/static/css/main.a3c9a9ec.css",
     "main.js": "/HaiderBhattiGameDev/static/js/main.2c8a9521.js",
     "index.html": "/HaiderBhattiGameDev/index.html",
-    "main.7fdc4bab.css.map": "/HaiderBhattiGameDev/static/css/main.7fdc4bab.css.map",
+    "main.a3c9a9ec.css.map": "/HaiderBhattiGameDev/static/css/main.a3c9a9ec.css.map",
     "main.2c8a9521.js.map": "/HaiderBhattiGameDev/static/js/main.2c8a9521.js.map"
   },
   "entrypoints": [
-    "static/css/main.7fdc4bab.css",
+    "static/css/main.a3c9a9ec.css",
     "static/js/main.2c8a9521.js"
   ]
 }
