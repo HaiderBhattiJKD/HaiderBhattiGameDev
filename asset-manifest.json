@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/cleanfolio/static/css/main.7fdc4bab.css",
-    "main.js": "/cleanfolio/static/js/main.eb4ba2f8.js",
-    "index.html": "/cleanfolio/index.html",
-    "main.7fdc4bab.css.map": "/cleanfolio/static/css/main.7fdc4bab.css.map",
-    "main.eb4ba2f8.js.map": "/cleanfolio/static/js/main.eb4ba2f8.js.map"
+    "main.css": "/HaiderBhattiGameDev/static/css/main.7fdc4bab.css",
+    "main.js": "/HaiderBhattiGameDev/static/js/main.eb4ba2f8.js",
+    "index.html": "/HaiderBhattiGameDev/index.html",
+    "main.7fdc4bab.css.map": "/HaiderBhattiGameDev/static/css/main.7fdc4bab.css.map",
+    "main.eb4ba2f8.js.map": "/HaiderBhattiGameDev/static/js/main.eb4ba2f8.js.map"
   },
   "entrypoints": [
     "static/css/main.7fdc4bab.css",
