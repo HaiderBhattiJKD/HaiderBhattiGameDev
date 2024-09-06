@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/HaiderBhattiGameDev/static/css/main.a3c9a9ec.css",
-    "main.js": "/HaiderBhattiGameDev/static/js/main.2c8a9521.js",
+    "main.css": "/HaiderBhattiGameDev/static/css/main.9032f281.css",
+    "main.js": "/HaiderBhattiGameDev/static/js/main.78f37dbc.js",
+    "static/media/Resume.pdf": "/HaiderBhattiGameDev/static/media/Resume.dffbfd1785cb28df78a4.pdf",
     "index.html": "/HaiderBhattiGameDev/index.html",
-    "main.a3c9a9ec.css.map": "/HaiderBhattiGameDev/static/css/main.a3c9a9ec.css.map",
-    "main.2c8a9521.js.map": "/HaiderBhattiGameDev/static/js/main.2c8a9521.js.map"
+    "main.9032f281.css.map": "/HaiderBhattiGameDev/static/css/main.9032f281.css.map",
+    "main.78f37dbc.js.map": "/HaiderBhattiGameDev/static/js/main.78f37dbc.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3c9a9ec.css",
-    "static/js/main.2c8a9521.js"
+    "static/css/main.9032f281.css",
+    "static/js/main.78f37dbc.js"
   ]
 }
